@@ -1,2 +1,1 @@
-Common commit
-add in branch2
+test
