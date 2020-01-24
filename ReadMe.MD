@@ -1,1 +1,1 @@
-Commit in branch2
+Common commit
