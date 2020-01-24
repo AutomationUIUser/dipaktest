@@ -1,5 +1,1 @@
-Recent commit test.
-Deleted
-test
-from branch 2
-update 19:47
+Commit in branch2
