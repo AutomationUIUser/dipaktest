@@ -1,1 +1,7 @@
-file2
+wa
+b
+c
+d
+f
+g
+asc
