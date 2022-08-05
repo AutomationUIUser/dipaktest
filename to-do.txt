@@ -1,0 +1,6 @@
+normal fields mapping
+comments and attachments
+settings (conflict, sync when, overwrite)
+advanced xsl (excel lookup, etc)
+user mapping (email, date fields - time zone)
+links (related to, etc)
