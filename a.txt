@@ -1,3 +1,1 @@
 file3
-
-This is a change done for sampleTest1 branch.
