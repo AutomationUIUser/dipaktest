@@ -1,0 +1,11 @@
+explicitIgnorefieldOnWrite < - > explicitIgnoreEmptyTestfieldOnWrite
+
+criteria related parameters - jiracloudProperties - unit test
+
+isDeleteSupported
+
+why date and time is not supported in automation?
+
+something about parallel testing.!
+
+only poling side validation?
